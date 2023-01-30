@@ -24,7 +24,6 @@ Azure Health Bot URL : https://centralindia.healthbot.microsoft.com/account/proj
 
 ## MY WEBSITE LINK IS : https://polite-wave-04d491000.2.azurestaticapps.net
 ###screenshorts
-##HOME
 ![b1](https://user-images.githubusercontent.com/111002996/215539799-e55d748f-92c3-43e6-8878-872c2410b144.png)
 
 

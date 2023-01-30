@@ -24,33 +24,33 @@ Azure Health Bot URL : https://centralindia.healthbot.microsoft.com/account/proj
 
 ## MY WEBSITE LINK IS : https://polite-wave-04d491000.2.azurestaticapps.net
 ##screenshorts
-###HOME
+##HOME
 ![b1](https://user-images.githubusercontent.com/111002996/215539799-e55d748f-92c3-43e6-8878-872c2410b144.png)
 
 
-###ABOUT
+##ABOUT
 ![b2](https://user-images.githubusercontent.com/111002996/215539850-bbea1a79-459d-4f8e-b629-1f1d721d8ad4.png)
 
 
-###SERVICES
+##SERVICES
 ![b3](https://user-images.githubusercontent.com/111002996/215539901-176b0e19-dd71-49af-bb86-6807abaec64b.png)
 
 
-###BLOG
+##BLOG
 ![b4](https://user-images.githubusercontent.com/111002996/215539951-86e34337-934e-45db-84df-b920827a45de.png)
 
 
-###GALLARY
+##GALLARY
 ![b5](https://user-images.githubusercontent.com/111002996/215539995-3aa6ba72-1093-4c8e-9332-a7c61fca6e15.png)
 
 
-###CONTACT
+##CONTACT
 
 ![b6](https://user-images.githubusercontent.com/111002996/215540036-de7bedd8-9892-4c84-b1e1-a6e32cbfb450.png)
 
-###HEALTHBOT
+##HEALTHBOT
 ![b7](https://user-images.githubusercontent.com/111002996/215540084-91054b49-6043-49ba-9d7d-57b24d6ed66d.png)
 
 
-###AZURE SERVICES USED
+##AZURE SERVICES USED
 ![b8](https://user-images.githubusercontent.com/111002996/215540127-c3b09aec-3347-4c74-a54e-8eab6cb43453.png)
